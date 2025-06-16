@@ -53,4 +53,9 @@ python snake_ito.py
 
 Если хотите добавить новые фичи или улучшить стили, присылайте PR в репозиторий.
 
+## 🤝 Фотокарточки
+
+![image](https://github.com/user-attachments/assets/addbf22c-6cb8-454b-9299-04cebd7bcc61)
+![image](https://github.com/user-attachments/assets/b65809cf-0e52-47ac-b8ba-8d387eabb7b7)
+
 
